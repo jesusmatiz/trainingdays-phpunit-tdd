@@ -1,1 +1,1 @@
-*.cache
+.phpunit.result.cache
