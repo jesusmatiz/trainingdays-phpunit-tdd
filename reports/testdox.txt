@@ -4,3 +4,6 @@ Fizz Buzz
 Prueba
  [x] Prueba para sumar dos numeros enteros
 
+Stub Class
+ [x] Prueba stub
+

@@ -1,1 +1,1 @@
-{"version":1,"defects":{"PruebaTest::sumar":7,"FizzBuzzTest::fizz_buzz":7},"times":{"PruebaTest::sumar":0.001,"FizzBuzzTest::fizz_buzz":0.071}}
+{"version":1,"defects":{"PruebaTest::sumar":7,"FizzBuzzTest::fizz_buzz":7,"StubClassTest::prueba_stub":8},"times":{"PruebaTest::sumar":0.001,"FizzBuzzTest::fizz_buzz":0.307,"StubClassTest::prueba_stub":0.372}}
